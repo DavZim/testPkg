@@ -7,5 +7,5 @@
 #' @examples
 #' foo()
 foo <- function() {
-  "Hello World from Version 0.1.0"
+  "Hello World from Version 0.2.0"
 }
